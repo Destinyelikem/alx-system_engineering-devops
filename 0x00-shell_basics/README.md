@@ -1,2 +1,2 @@
 #!/bin/bash
-Display the contents list of your current directory
+changing the working directory to the user’s home directory
