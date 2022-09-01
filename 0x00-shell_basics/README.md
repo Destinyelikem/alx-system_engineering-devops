@@ -1,2 +1,2 @@
 #!/bin/bash
-creating a directory named my first directory in the /tmp/ directory.
+Moving the file betty from /tmp/ to /tmp/my first directory
