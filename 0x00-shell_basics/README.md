@@ -1,2 +1,2 @@
 #!/bin/bash
-Display current directory contents
+a directory named my first directory in the tmp directory.
