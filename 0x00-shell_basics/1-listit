@@ -1,5 +1,3 @@
 #!/bin/bash
-ls
-pwd
-movie
-songs
+ls songs
+pwd movie
